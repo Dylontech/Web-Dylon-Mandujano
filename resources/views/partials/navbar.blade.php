@@ -18,7 +18,7 @@
           <li><a href="#services">Servicios</a></li>
           <li><a href="#">Musica</a></li>
           <li><a href="{{ route('blog.index') }}">Blog</a></li>
-          <li><a href="#Historia">Historia</a></li>
+          <li><a href="#Historia">novela</a></li>
           <li><a href="#portfolio">Portafolio</a></li>
          
             <li class="dropdown">
